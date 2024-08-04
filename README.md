@@ -4,7 +4,7 @@ I'm a **full-stack software engineer** and **mobile app developer**, currently s
 
 ## 🌟 About Me
 - **🌱 Currently Learning:** Advanced JavaScript, React, Next.js, ASP.NET, Docker
-- **💼 Interested In:** Full-Stack Development, Mobile App Development, Cloud Computing
+- **💼 Interested In:** Full-Stack Development, AI / Machine Learning, Mobile App Development, Cloud Computing
 - **💻 Languages & Technologies:** JavaScript, Python, Java, React, Node.js, Express, MongoDB, SQL, Flutter, Git, Docker
 
 ## 💻 🧰 Technologies & Tools
