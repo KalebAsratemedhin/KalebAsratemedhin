@@ -11,48 +11,43 @@ I'm a **full-stack software engineer** and **mobile app developer**, currently s
 ### Technologies I work with on a daily basis
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px"/>    
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50px"/>
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
     </td>
-    
-  </tr>
-  <tr>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="100px" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px"/>
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px"/>
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+    <td style="width: 8.33%; text-align: center; border: 1px solid black;">      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" />
     </td>
-    <td style="width: 16.66%; text-align: center; border: 1px solid black;">
-    </td>
-    
     
   </tr>
 </table>
+
 
 
 
@@ -63,30 +58,51 @@ I'm a **full-stack software engineer** and **mobile app developer**, currently s
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 20%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" />
     </td>
     <td style="width: 20%; text-align: center; border: 1px solid black;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" />
     </td>
     <td style="width: 20%; text-align: center; border: 1px solid black;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />   
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50px" />
     </td>
     <td style="width: 20%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50px" />
     </td>
     <td style="width: 20%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50px" />
     </td>
-    
-    
+    <td style="width: 20%; text-align: center; border: 1px solid black;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50px" />
+    </td>
   </tr>
 </table>
 
 
-          
-
 
 ## 🚀 Projects & Repositories
+### [ Efoy Hospital Appointment Manager](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
+<ul>
+  <li>Description: Efoy is a platform for hospitals aimed at facilitating appointment bookings. It provides a capability for patients to book appointments online. Doctors can easily manage their appointments and plan their day effectively. It aims to solve the challenges that patients face when it comes to booking appointments in Ethiopia and other developing countries as well. It is still  a work in progress but will be finished soon.
+  </li> 
+  <li>Features:
+    <ul> 
+      <li>Booking, editing, deleting appointment</li>
+      <li>Dashboard for doctors</li>
+      <li>Searching doctors based on rating, speciality, experience</li>
+      <li>Calendar integration </li>
+    </ul>
+  </li>
+  
+  <li>Technologies: Node JS, Express JS, Mongo DB, React, Material UI, Redux Toolkit</li> 
+    
+  
+</ul>
+
+### [SkillTrade](https://github.com/KalebAsratemedhin/SkillTrade)
+### [ArtistryNexus](https://github.com/KalebAsratemedhin/ArtistryNexus)
+
+
 
 ## 📬 Get in Touch
 [![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaleb-asratemedhin-81748625b)
