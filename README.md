@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaleb Asratemedhin 👋
 
-I'm a **full-stack software engineer** and **mobile app developer**, currently studying Software Engineering at **Addis Ababa University**. I have a passion for building innovative, efficient, scalable, user-friendly solutions and exploring the latest technologies in the field. This GitHub profile is a showcase of my projects, contributions, and experiments in the world of software development.
+I'm a **full-stack software engineer**, currently studying Software Engineering at **Addis Ababa University**. I have a passion for building innovative, efficient, scalable, user-friendly solutions and exploring the latest technologies in the field. This GitHub profile is a showcase of my projects, contributions, and experiments in the world of software development.
 
 ## 🌟 About Me
 - **🌱 Currently Learning:** Advanced JavaScript, React, Next.js, ASP.NET, Docker
