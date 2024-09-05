@@ -11,39 +11,43 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 ### Technologies I work with on a daily basis
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+    <td >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" />
     </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+    <td >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
     </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+    <td >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
     </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50px"/>
+    <td >   
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px" />
     </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50px" />
-    </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
-    </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50px" />
-    </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
-    </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" />
-    </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">
+    <td >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px"/>
     </td>
-    <td style="width: 8.33%; text-align: center; border: 1px solid black;">      
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50px"/>
+    </td>
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50px" />
+    </td>
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+    </td>
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50px" />
+    </td>
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
+    </td>
+    <td >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" />
+    </td>
+    <td >      
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" />
     </td>
+    
     
   </tr>
 </table>
@@ -103,6 +107,24 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 ### [ArtistryNexus](https://github.com/KalebAsratemedhin/ArtistryNexus)
 
 
+## Git stats
+
+
+
+
+
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalebAsratemedhin&show_icons=true&theme=radical)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebAsratemedhin&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KalebAsratemedhin&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
+
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KalebAsratemedhin&theme=react-dark)
 
 ## 📬 Get in Touch
 [![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaleb-asratemedhin-81748625b)
