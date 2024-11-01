@@ -87,14 +87,16 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 ## 🚀 Projects & Repositories
 ### [ Efoy Hospital Appointment Manager](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
 <ul>
-  <li>Description: Efoy is a platform for hospitals aimed at facilitating appointment bookings. It provides a capability for patients to book appointments online. Doctors can easily manage their appointments and plan their day effectively. It aims to solve the challenges that patients face when it comes to booking appointments in Ethiopia and other developing countries as well. It is still  a work in progress but will be finished soon.
+  <li>Description: Efoy is a platform for hospitals aimed at facilitating appointment bookings. It provides a capability for patients to book appointments online. Doctors can easily manage their appointments and plan their day effectively. It aims to solve the challenges that patients face when it comes to booking appointments in Ethiopia and other developing countries as well. 
   </li> 
   <li>Features:
     <ul> 
       <li>Booking, editing, deleting appointment</li>
-      <li>Dashboard for doctors</li>
+      <li>Dashboard for doctors, patients and admins</li>
       <li>Searching doctors based on rating, speciality, experience</li>
-      <li>Calendar integration </li>
+      <li>Appointment Reminders </li>
+      <li>Google authentication </li>
+      
     </ul>
   </li>
   
@@ -104,13 +106,10 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 </ul>
 
 ### [SkillTrade](https://github.com/KalebAsratemedhin/SkillTrade)
-### [ArtistryNexus](https://github.com/KalebAsratemedhin/ArtistryNexus)
+### [AutoFlash](https://github.com/KalebAsratemedhin/Auto-Flash-car-rental)
 
 
 ## Git stats
-
-
-
 
 
 
