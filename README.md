@@ -96,7 +96,6 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
       <li>Searching doctors based on rating, speciality, experience</li>
       <li>Appointment Reminders </li>
       <li>Google authentication </li>
-      
     </ul>
   </li>
   
