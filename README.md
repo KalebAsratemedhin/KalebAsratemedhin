@@ -105,7 +105,47 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 </ul>
 
 ### [SkillTrade](https://github.com/KalebAsratemedhin/SkillTrade)
+<ul>
+  <li>Description: SkillTrade is a platform to connect skilled handy-people with customers. It provides an opportunity for people to use their technical skills to make money and create a difference. 
+  </li> 
+  <li>Features:
+    <ul> 
+      <li>Dashboard for customers, technicians and admins.</li>
+      <li>Searching technicians based on rating, skills and location.</li>
+      <li>Create, Update and Delete Bookings</li>
+      <li>Payment integration </li>
+      <li>Google authentication </li>
+    </ul>
+  </li>
+  
+  <h3>Tech Stack</h3>
+  <li>Frontend: Next.js + TypeScript + Tailwind CSS + Redux Toolkit + NextAuth</li>
+  <li>Backend: Express.js + Node.js + Mongo DB</li>
+    
+  
+</ul>
+
 ### [AutoFlash](https://github.com/KalebAsratemedhin/Auto-Flash-car-rental)
+<ul>
+  <li>Description: AutoFlash is a car rental platform. It provides a capability for users to rent cars from anywhere and even payfor it. It also alows admins to track rents in easily and visualize their income and customer base.
+  </li> 
+  <li>Features:
+    <ul> 
+      <li>Dashboard for customers, admins(car owners) and super-admins</li>
+      <li>Searching cars based on make, model, price and rating</li>
+      <li>Rate, comment on cars to help others find better cars</li>
+      <li>Create, Update and Delete Rents</li>
+      <li>Payment integration </li>
+      <li>Google authentication </li>
+    </ul>
+  </li>
+  
+  <h3>Tech Stack</h3>
+  <li>Frontend: Next.js + TypeScript + Tailwind CSS + Redux Toolkit + NextAuth</li>
+  <li>Backend: Express.js + Node.js + Mongo DB</li>
+    
+  
+</ul>
 
 
 ## Git stats
