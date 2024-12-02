@@ -2,6 +2,8 @@
 
 I'm a **full-stack software engineer**, currently studying Software Engineering at **Addis Ababa University**. I have a passion for building innovative, efficient, scalable, user-friendly solutions and exploring the latest technologies in the field. This GitHub profile is a showcase of my projects, contributions, and experiments in the world of software development.
 
+### Checkout my portfolio website: https://portfolio-kals-projects-80246ba1.vercel.app/
+
 ## 🌟 About Me
 - **🌱 Currently Learning:** Advanced JavaScript, React, Next.js, ASP.NET, Docker
 - **💼 Interested In:** Full-Stack Development, AI / Machine Learning, Cloud Computing
