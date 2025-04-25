@@ -87,6 +87,26 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 
 
 ## 🚀 Projects & Repositories
+### [EnatBet - Food Delivery and Restaurant Management App](https://enatbet-client.onrender.com/)
+<ul>
+  <li>Description: EnatBet is a modern food delivery and ordering platform that enables users to explore nearby restaurants, customize meals, place orders, and track them in real time. It offers a location-based experience for customers, a full suite of management tools for restaurant owners, and route-optimized tracking for delivery personnel. It aims to streamline the food ordering process across Ethiopia and similar regions.</li> 
+  
+  <li>Features:
+    <ul> 
+      <li>User authentication and profile management</li>
+      <li>Restaurant registration, verification, and menu customization</li>
+      <li>Browsing restaurants by location, cuisine, and rating</li>
+      <li>Cart system with discount and checkout options</li>
+      <li>Real-time order status and delivery tracking</li>
+      <li>Optimized delivery routes and status updates</li>
+      <li>Admin approval, analytics, and management tools</li>
+      <li>Multiple payment options including local wallets (Telebirr, CBE Birr)</li>
+    </ul>
+  </li>
+  
+  <li>Technologies: React, Vite, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit Query, Express JS, MongoDB</li> 
+</ul>
+
 ### [ Efoy Hospital Appointment Manager](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
 <ul>
   <li>Description: Efoy is a platform for hospitals aimed at facilitating appointment bookings. It provides a capability for patients to book appointments online. Doctors can easily manage their appointments and plan their day effectively. It aims to solve the challenges that patients face when it comes to booking appointments in Ethiopia and other developing countries as well. 
