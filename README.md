@@ -107,6 +107,32 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
   <li>Technologies: React, Vite, TypeScript, Tailwind CSS, ShadCN UI, Redux Toolkit Query, Express JS, MongoDB</li> 
 </ul>
 
+### [ ArtisanAlley](https://github.com/KalebAsratemedhin/ArtisanAlley)
+  ArtisanAlley is a modern digital art marketplace built with Next.js 15 and Supabase, where artists can showcase and sell their artwork while art enthusiasts can discover and purchase unique pieces. The platform features a rich, interactive user experience with real-time chat, secure payments, and a sophisticated art discovery system.
+  
+  ## 🌟 Features
+  
+  - **Digital Art Marketplace**: Browse, buy, and sell digital artwork
+  - **User Authentication**: Secure authentication system using Supabase
+  - **Real-time Chat**: Direct messaging between artists and buyers
+  - **Search & Discovery**: Advanced search functionality with filters
+  - **User Profiles**: Customizable artist and collector profiles
+  - **Secure Payments**: Integrated payment processing with Stripe
+  - **Responsive Design**: Modern UI built with Tailwind CSS and Radix UI
+  - **Dark Mode Support**: Built-in theme switching capability
+  
+  ## 🚀 Tech Stack
+  
+  - **Frontend Framework**: Next.js 15.3.2
+  - **Language**: TypeScript
+  - **Styling**: Tailwind CSS
+  - **UI Components**: Radix UI
+  - **State Management**: Zustand
+  - **Authentication**: Supabase Auth
+  - **Database**: Supabase
+  - **Payment Processing**: Stripe
+  - **Deployment**: Vercel
+- 
 ### [ Efoy Hospital Appointment Manager](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
 <ul>
   <li>Description: Efoy is a platform for hospitals aimed at facilitating appointment bookings. It provides a capability for patients to book appointments online. Doctors can easily manage their appointments and plan their day effectively. It aims to solve the challenges that patients face when it comes to booking appointments in Ethiopia and other developing countries as well. 
