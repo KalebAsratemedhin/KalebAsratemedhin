@@ -87,7 +87,8 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 
 
 ## 🚀 Projects & Repositories
-### [EnatBet - Food Delivery and Restaurant Management App](https://enatbet.vercel.app/)
+### [EnatBet - Food Delivery and Restaurant Management App](https://github.com/KalebAsratemedhin/EnatBet)
+live: https://enatbet.vercel.app/
 <ul>
   <li>Description: EnatBet is a modern food delivery and ordering platform that enables users to explore nearby restaurants, customize meals, place orders, and track them in real time. It offers a location-based experience for customers, a full suite of management tools for restaurant owners, and route-optimized tracking for delivery personnel. It aims to streamline the food ordering process across Ethiopia and similar regions.</li> 
   
@@ -108,18 +109,18 @@ I'm a **full-stack software engineer**, currently studying Software Engineering 
 </ul>
 
 ### [ ArtisanAlley](https://github.com/KalebAsratemedhin/ArtisanAlley)
-  ArtisanAlley is a modern digital art marketplace built with Next.js 15 and Supabase, where artists can showcase and sell their artwork while art enthusiasts can discover and purchase unique pieces. The platform features a rich, interactive user experience with real-time chat, secure payments, and a sophisticated art discovery system.
+live: https://artisan-alley-peach.vercel.app/
+  ArtisanAlley is a modern digital art community and marketplace built with Next.js 15 and Supabase, where artists can showcase and sell their artwork while art enthusiasts can discover and purchase unique pieces. The platform features a rich, interactive user experience with real-time chat, secure payments using stripe and webhooks, an art discovery system and a social networking system with follows.
   
   ## 🌟 Features
   
   - **Digital Art Marketplace**: Browse, buy, and sell digital artwork
-  - **User Authentication**: Secure authentication system using Supabase
+  - **User Authentication**: Secure authentication system using Supabase with google authentication integrated
   - **Real-time Chat**: Direct messaging between artists and buyers
   - **Search & Discovery**: Advanced search functionality with filters
-  - **User Profiles**: Customizable artist and collector profiles
-  - **Secure Payments**: Integrated payment processing with Stripe
+  - **User Profiles and Follow**: Customizable artist and collector profiles with follow feature
+  - **Secure Payments**: Integrated payment processing with Stripe using webhooks
   - **Responsive Design**: Modern UI built with Tailwind CSS and Radix UI
-  - **Dark Mode Support**: Built-in theme switching capability
   
   ## 🚀 Tech Stack
   
