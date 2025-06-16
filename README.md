@@ -110,6 +110,7 @@ live: https://enatbet.vercel.app/
 
 ### [ ArtisanAlley](https://github.com/KalebAsratemedhin/ArtisanAlley)
 live: https://artisan-alley-peach.vercel.app/
+
   ArtisanAlley is a modern digital art community and marketplace built with Next.js 15 and Supabase, where artists can showcase and sell their artwork while art enthusiasts can discover and purchase unique pieces. The platform features a rich, interactive user experience with real-time chat, secure payments using stripe and webhooks, an art discovery system and a social networking system with follows.
   
   ## 🌟 Features
