@@ -63,6 +63,27 @@ I'm actively exploring the intersection of software engineering and artificial i
 
 ## 🚀 Featured Projects
 
+
+### **Efoy Hospital - Appointment Manager**
+> **Repo:** [GitHub](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
+
+A comprehensive hospital appointment booking platform designed to solve appointment scheduling challenges in Ethiopia and developing countries.
+
+**Key Features:**
+- Appointment booking, editing, and management
+- Video Consultation via Stream Video
+- Prescription System with digital signature
+- In-App Calendar
+- Multi-role dashboards (doctors, patients, admins)
+- Doctor search by specialty, rating, and experience
+- Automated appointment reminders
+- Google authentication integration
+- Comprehensive appointment analytics
+
+**Tech Stack:** Node.js, Express.js, MongoDB, React, Material UI, Redux Toolkit, Stream Video
+
+---
+
 ### **EnatBet - Food Delivery Platform**
 > **Live Demo:** [https://enatbet.vercel.app/](https://enatbet.vercel.app/) | **Repo:** [GitHub](https://github.com/KalebAsratemedhin/EnatBet)
 
@@ -96,23 +117,6 @@ A modern digital art community and marketplace where artists showcase and sell t
 - Responsive design with modern UI/UX
 
 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Radix UI, Zustand, Supabase, Stripe
-
----
-
-### **Efoy Hospital - Appointment Manager**
-> **Repo:** [GitHub](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
-
-A comprehensive hospital appointment booking platform designed to solve appointment scheduling challenges in Ethiopia and developing countries.
-
-**Key Features:**
-- Appointment booking, editing, and management
-- Multi-role dashboards (doctors, patients, admins)
-- Doctor search by specialty, rating, and experience
-- Automated appointment reminders
-- Google authentication integration
-- Comprehensive appointment analytics
-
-**Tech Stack:** Node.js, Express.js, MongoDB, React, Material UI, Redux Toolkit
 
 ---
 
