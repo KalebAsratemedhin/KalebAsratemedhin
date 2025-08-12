@@ -1,4 +1,4 @@
-<div align="center" style="position: relative; background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2MXVydDg3NDk4MXJ2anJpMGIya2R2bHR6d3g5bG1xOW55emc2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.gif'); background-size: cover; background-position: center; padding: 80px 20px; border-radius: 15px; margin-bottom: 30px;">
+<div align="center" style="position: relative; background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('./YnexM9LwlwGu4Z1QnS.webp'); background-size: cover; background-position: center; padding: 80px 20px; border-radius: 15px; margin-bottom: 30px;">
 
 # 👨‍💻 Kaleb Asratemedhin
 
