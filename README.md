@@ -65,7 +65,7 @@ I'm actively exploring the intersection of software engineering and artificial i
 
 
 ### **Efoy Hospital - Appointment Manager**
-> **Live Demo:** [https://artisan-alley-peach.vercel.app/](https://efoy-hospital-appointment-manager.vercel.app/) | **Repo:** [GitHub](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
+> **Live Demo:** [https://efoy-hospital-appointment-manager.vercel.app/](https://efoy-hospital-appointment-manager.vercel.app/) | **Repo:** [GitHub](https://github.com/KalebAsratemedhin/Efoy_Hospital_Appointment_Manager)
 
 A comprehensive hospital appointment booking platform designed to solve appointment scheduling challenges in Ethiopia and developing countries.
 
